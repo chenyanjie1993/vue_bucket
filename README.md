@@ -1,4 +1,4 @@
-# vue_all
+# vue_bucket
 
 > A Vue.js project
 
